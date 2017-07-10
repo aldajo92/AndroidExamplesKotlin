@@ -1,4 +1,4 @@
-package com.example.aldajo92.customview
+package com.example.aldajo92
 
 import android.content.Context
 import android.util.AttributeSet

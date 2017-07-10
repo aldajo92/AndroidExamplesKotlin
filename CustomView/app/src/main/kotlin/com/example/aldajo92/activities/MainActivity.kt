@@ -1,12 +1,10 @@
-package com.example.aldajo92.customview
+package com.example.aldajo92.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.aldajo92.customview.MyClass
+import com.example.aldajo92.customview.R
 import kotlinx.android.synthetic.main.activity_main.*
-
-/*
-    code based on: https://antonioleiva.com/kotlin-android-custom-views/
- */
 
 class MainActivity : AppCompatActivity() {
 
